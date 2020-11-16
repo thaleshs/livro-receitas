@@ -4,3 +4,4 @@ Olá! Bem-vindo ao meu livro de receita. :wave:
 
 - Stroggonofe de Frango
 - Pavê
+- Fricassê de Frango
